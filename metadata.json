@@ -1,0 +1,5 @@
+{
+  "name": "Bright necklace to pride lady",
+  "description": "An application that uses AI to let users virtually try on necklaces. Upload a photo of a person and a necklace image, and the app will generate a new image with the necklace added.",
+  "requestFramePermissions": []
+}
